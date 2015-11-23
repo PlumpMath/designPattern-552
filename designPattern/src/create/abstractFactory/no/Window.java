@@ -6,4 +6,5 @@ public abstract class Window {
 	private int y;
 	private int width;
 	private int heigth;
+	
 }
